@@ -3,7 +3,7 @@
 - 🌱 I’m currently learning ...python
 - 💞️ I’m looking to collaborate on ...
 - 📫 How to reach me ...you can't reach me
-- 😄 Pronouns: ...idc
+- 😄 Pronouns: ...he/him
 - ⚡ Fun fact: ...im a kid
 
 <!---
